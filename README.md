@@ -1,3 +1,3 @@
 # NEW
-First repository
+First repository.
 Author-Rishika Konagalla
